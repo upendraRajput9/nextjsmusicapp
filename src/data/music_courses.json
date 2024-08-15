@@ -1,0 +1,55 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Guitar Playing",
+        "slug": "introduction-to-guitar-playing",
+        "description": "Learn the basics of guitar playing, including chords, strumming techniques, and beginner songs.",
+        "price": 49.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "guitar_course_cover.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Piano Techniques",
+        "slug": "advanced-piano-techniques",
+        "description": "Master advanced piano techniques, including arpeggios, scales, and improvisation.",
+        "price": 79.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "piano_course_cover.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Music Theory Fundamentals",
+        "slug": "music-theory-fundamentals",
+        "description": "Understand the fundamentals of music theory, including scales, chords, and harmonic analysis.",
+        "price": 39.99,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "music_theory_course_cover.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Drum Set Basics",
+        "slug": "drum-set-basics",
+        "description": "Learn how to play the drums with this beginner course, covering basic beats, fills, and techniques.",
+        "price": 29.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "drum_course_cover.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Vocal Training for Beginners",
+        "slug": "vocal-training-for-beginners",
+        "description": "Develop your singing voice with this course, focusing on breath control, pitch, and vocal exercises.",
+        "price": 59.99,
+        "instructor": "Sarah Lee",
+        "isFeatured": true,
+        "image": "vocal_training_course_cover.jpg"
+      }
+    ]
+  }
+  
